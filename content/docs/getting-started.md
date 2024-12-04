@@ -1,34 +1,61 @@
 ---
-title: Getting Started
+title: Hugo使用教程
 date: 2024-02-17
 weight: 1
 ---
 
-## Quick Start from Template
+## 1.1 选择一个喜欢的模板
 
 {{% steps %}}
 
-### Initialize a new site
+###
+访问hugo 的[模板地址](https://hugoblox.com/templates/)，选择一个免费的模板。自己还是比较喜欢简介一点的模板
 
-[Click to copy the template on GitHub](https://github.com/new?template_name=theme-documentation&template_owner=HugoBlox)
+![image-20241204103114411](/docs/getting-started/image-20241204103114411.png)
 
-### Configure your new site
+###
+点击edit ,会跳转到github 仓库。也可以点击view demo 查看演示效果
 
-[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
+![image-20241204103318198](/docs/getting-started/image-20241204103318198.png)
 
-### Add your content
+###
+复制模板为自己的仓库
 
-[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
-
-### Publish your site
-
-[Easily publish your site for free with GitHub Pages](https://docs.hugoblox.com/tutorial/blog/)
-
+![image-20241204103647371](/docs/getting-started/image-20241204103647371.png)
 {{% /steps %}}
 
-## Next
+## 1.2 编辑自己的博客内容
+{{% steps %}}
+###
+跳转到仓库首页，点击“create codespace on main”
 
-Let's customize your new site:
+![create-codespace.ONu2r4OP_1306hT](/docs/getting-started/create-codespace.ONu2r4OP_1306hT.jpeg)
+{{% /steps %}}
+
+
+## 1.3. 发布编辑的内容
+{{% steps %}}
+
+###
+
+点击“Settings”->"Pages"->"GitHub ACtions", 打开pages功能
+
+![create-codespace.ONu2r4OP_1306hT](/docs/getting-started/create-codespace.ONu2r4OP_1306hT.png)
+###
+
+点击"Actions"->"Run workflow",开始运行构建工作
+
+![trigger-workflow.2noFNHBc_1w53OS](/docs/getting-started/trigger-workflow.2noFNHBc_1w53OS.webp)
+###
+
+等一段时间后，页面面自动发布成功
+
+![repo-link.PZui0L9N_Z1VOyMi](/docs/getting-started/repo-link.PZui0L9N_Z1VOyMi.webp)
+{{% /steps %}}
+
+## 下一章
+
+章节列表
 
 {{< cards >}}
   {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
