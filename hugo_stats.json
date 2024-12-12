@@ -399,7 +399,6 @@
       "pl-1",
       "pl-2",
       "pl-4",
-      "pl-8",
       "place-self-center",
       "powered-by",
       "pr-2",
@@ -447,7 +446,6 @@
       "rtl:-rotate-180",
       "rtl:hidden",
       "rtl:pr-4",
-      "rtl:pr-8",
       "rtl:text-left",
       "scale-95",
       "scroll-my-6",
@@ -540,10 +538,8 @@
       "11-选择一个喜欢的模板",
       "12-编辑自己的博客内容",
       "13-发布编辑的内容",
-      "add-your-content",
       "bug-fixes",
       "chat",
-      "configure-your-new-site",
       "docs",
       "docs-navigation",
       "example",
@@ -562,7 +558,6 @@
       "hide-button",
       "how-to-upgrade",
       "hugo-file-naming-convention",
-      "initialize-a-new-site",
       "left-sidebar",
       "menu",
       "moon",
@@ -575,8 +570,6 @@
       "notes",
       "options",
       "page-bg",
-      "publish-your-site",
-      "quick-start-from-template",
       "right-sidebar",
       "search",
       "search_toggle",
@@ -600,8 +593,7 @@
       "top",
       "usage",
       "warnings",
-      "下一章",
-      "访问hugo-的模板地址httpshugobloxcomtemplates选择一个免费的模板自己还是比较喜欢简介一点的模板"
+      "下一章"
     ]
   }
 }
